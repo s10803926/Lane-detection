@@ -1,4 +1,4 @@
-# lane_detetction
+# lane_detection
 
 Detecting lanes on a road 
 1. Masking the yellow and white colors from input image 
